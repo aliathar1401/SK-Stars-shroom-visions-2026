@@ -233,13 +233,13 @@ OUTPUT_DIR  = "./lora_weights_7b"
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{skstars2026shroom,
+@inproceedings{athar2026skstars,
   title     = {{SKstars} at {SHROOM}-Visions 2026: Agreement-Guided
                Ensembling of Zero-Shot and {LoRA}-Adapted
                Vision--Language Models},
-  author    = {Anonymous},
-  booktitle = {Proceedings of the 20th International Workshop on
-               Semantic Evaluation},
+  author    = {Athar, Ali and Ahsan, Imran and Jung, Joon-Yong},
+  booktitle = {Proceedings of the SHROOM-Visions 2026 Shared Task,
+               EMNLP 2026 Workshop},
   year      = {2026}
 }
 ```
